@@ -1,2 +1,4 @@
 # Laxicon-Demo
-my new repository
+This is my first git repository.
+<br>
+Author - Maitry Dodiya
